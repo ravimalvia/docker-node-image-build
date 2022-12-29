@@ -1,0 +1,22 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "this is simple express and node webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravimalvia/docker-node-image-build.git"
+  },
+  "author": "ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravimalvia/docker-node-image-build/issues"
+  },
+  "homepage": "https://github.com/ravimalvia/docker-node-image-build#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
